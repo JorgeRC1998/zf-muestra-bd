@@ -1,0 +1,6 @@
+projectKey=zf-muestra-bd-22062022-1
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=zf-muestra-bd-22062022-1
+ceTaskId=AYGOsaaxHdf6xB1J4LYJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYGOsaaxHdf6xB1J4LYJ
